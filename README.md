@@ -8,7 +8,7 @@ An interactive analytical dashboard built in **Google Looker Studio** (formerly 
 
 ## 📸 Dashboard Preview
 
-> **Static Export:** A complete single-page export is available under [`docs/orders_dashboard.pdf`](docs/orders_dashboard.pdf).
+> **Static Export:** A complete single-page export is available under [`orders_dashboard.pdf`](orders_dashboard.pdf).
 
 ---
 
